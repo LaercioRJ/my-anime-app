@@ -1,0 +1,43 @@
+[
+    {
+        "id": 0,
+        "name": "86 - season 2",
+        "image": "https://picsum.photos/1024/480/?image=10",
+        "synopsis": "OSPOSWJSWOIJSWOSJoj"
+    },
+
+    {
+        "id": 1,
+        "name": "Attack on Titan",
+        "image": "https://picsum.photos/1024/480/?image=11",
+        "synopsis": "OSPOSWJSWOIJSWOSJoj"
+    },
+
+    {
+        "id": 2,
+        "name": "Vanitas no Carte",
+        "image": "https://picsum.photos/1024/480/?image=12",
+        "synopsis": "OSPOSWJSWOIJSWOSJoj"
+    },
+
+    {
+        "id": 3,
+        "name": "My dress-up darling",
+        "image": "https://picsum.photos/1024/480/?image=13",
+        "synopsis": "OSPOSWJSWOIJSWOSJoj"
+    },
+
+    {
+        "id": 4,
+        "name": "Oddtaxi",
+        "image": "https://picsum.photos/1024/480/?image=14",
+        "synopsis": "OSPOSWJSWOIJSWOSJoj"
+    },
+
+    {
+        "id": 5,
+        "name": "Wonderegg priority",
+        "image": "https://picsum.photos/1024/480/?image=15",
+        "synopsis": "OSPOSWJSWOIJSWOSJoj"
+    }
+]
